@@ -28,4 +28,5 @@
 
 <a href = "https://www.instagram.com/samuel_scozzari/"> <img src="https://cdn.pixabay.com/photo/2017/10/29/01/24/social-networking-icon-2898674_1280.png" width="48px"/></a>
 
+<a href = "https://www.linkedin.com/in/samuel-scozzari-562603231/"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="48px"/></a>
 </p>
