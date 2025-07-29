@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m a **Junior Web Developer**
+- 🔭 I’m a **Web Developer**
 
 - 🐣 I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS**
 
